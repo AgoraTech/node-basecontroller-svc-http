@@ -1,0 +1,13 @@
+{
+    "name": "basecontroller-svc-http",
+    "version": "0.1.0",
+    "description": "A simple JSON http system",
+    "main": "http.js",
+    "dependencies": {
+        "basecontroller-http": "=0.1.0"
+    },
+    "repository": "git://github.com/AgoraTech/node-basecontroller-svc-http.git",
+    "homepage": "https://github.com/AgoraTech/node-basecontroller",
+    "author": "Agora SA",
+    "license": "BSD"
+}
